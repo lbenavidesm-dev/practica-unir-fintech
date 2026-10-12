@@ -1,0 +1,7 @@
+fintech
+credito
+ahorro
+banco
+pago
+inversion
+ahorro
